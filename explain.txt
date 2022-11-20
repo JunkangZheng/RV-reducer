@@ -1,0 +1,16 @@
+T1: Planetary gear crack and wear.
+T2: Planetary gear crack, broken and wear.
+T3: Bearing inner faults.
+T4: Bearing outer faults.
+T5: Planetary gear broken.
+T6: Heath.
+T7: Rub-impact.
+T8: Rub-impact and broken.
+T9: Sun gear crack and wear.
+T10: Sun gear crack, broken and wear.
+T11: Sun gear wear1.
+T12: Sun gear wear2.
+T13: Unbalance.
+T14: Planetary gear wear.
+T15: Planetary gear wear and broken.
+
